@@ -73,3 +73,17 @@
   color: #afabab;
   font-size: 0.9rem;
 }
+
+.sub p {
+  font-weight: bolder;
+
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+#root {
+  height: 100vh;
+}
